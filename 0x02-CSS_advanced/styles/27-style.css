@@ -368,9 +368,8 @@ a:active {
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
   margin: var(--section-tagline-margin);
-}d
-
-.section-hero {
+}
+d .section-hero {
   background-size: 90rem auto;
 }
 
